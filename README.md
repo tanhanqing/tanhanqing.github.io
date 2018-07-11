@@ -1,3 +1,3 @@
 # Basic
 
-[主页](https://tanhanqing.github.io/)
+[test主页](https://tanhanqing.github.io/test/index.html)
